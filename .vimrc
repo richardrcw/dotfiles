@@ -50,3 +50,4 @@ nnoremap <space> za
 let python_highlight_all=1
 syntax on
 
+let nerdtree_tabs_open_on_console_startup=1
